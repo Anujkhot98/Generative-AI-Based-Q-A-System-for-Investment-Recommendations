@@ -9,7 +9,7 @@ app = FastAPI()
 llm = ChatGroq(
     model_name="llama-3.3-70b-versatile",  # Specify the desired model
     temperature=0.7,                       # Set the temperature for response variability
-    groq_api_key="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",
+    groq_api_key="ENTER YOU GROQ API KEY",
     streaming=True  # Your Groq API key
 )
 

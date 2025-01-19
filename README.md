@@ -1,1 +1,2 @@
 # Generative-AI-Based-Q-A-System-for-Investment-Recommendations
+This project implements a real-time Q&A bot designed to provide conversational AI responses based on user inputs. It utilizes FastAPI for backend development and WebSocket for seamless, streaming communication with the frontend. Powered by the Llama-3.3-70b Versatile model via LangChain-Groq, the bot offers high-performance inference with token-by-token streaming responses.
